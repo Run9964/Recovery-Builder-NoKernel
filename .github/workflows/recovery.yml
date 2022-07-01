@@ -18,7 +18,7 @@ env:
   MANIFEST_BRANCH: twrp-9.0
   DEVICE: W_K510
   DT_LINK: https://github.com/DarkGaming09/w_k510_recovery_twrp
-  DT_PATH: device/wiko/W_K510
+  DT_PATH: device/wiko
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
