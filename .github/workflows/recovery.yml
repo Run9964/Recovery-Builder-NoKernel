@@ -16,9 +16,9 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
   MANIFEST_BRANCH: twrp-9.0
-  DEVICE: w_k510
+  DEVICE: W-K510
   DT_LINK: https://github.com/DarkGaming09/w_k510_recovery_twrp
-  DT_PATH: wiko/W-K510
+  DT_PATH: device/wiko/W-K510
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
